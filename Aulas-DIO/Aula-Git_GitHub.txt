@@ -1,4 +1,5 @@
 Processos para criação dos repositórios:
+
 - Criar pelo GitHub
 - Pegar o Link HTTPS
 - Abrir a pasta local aonde vai clonar este repositório
@@ -7,3 +8,4 @@ Processos para criação dos repositórios:
 - Ao fazer alterações utilizar: git status
 - Para salvar: git add .
 - Para commita: git commit -m"mensagem"
+- Após isso realizar: git push origin main
