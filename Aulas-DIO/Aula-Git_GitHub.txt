@@ -1,0 +1,9 @@
+Processos para criação dos repositórios:
+- Criar pelo GitHub
+- Pegar o Link HTTPS
+- Abrir a pasta local aonde vai clonar este repositório
+- Iniciar o Git Bash
+- Escrever: Git clone [link]
+- Ao fazer alterações utilizar: git status
+- Para salvar: git add .
+- Para commita: git commit -m"mensagem"
